@@ -1,7 +1,9 @@
 # Unity Audio Beheader
 Chops off the header from mp3 files extracted from [UABEA](https://github.com/nesrak1/UABEA).
 
-Mainly for one particular game which I bought the deluxe upgrade for expecting mp3 files, and it was a bloody Unity app!
+~~Mainly for one particular game which I bought the deluxe upgrade for expecting mp3 files, and it was a bloody Unity app!~~
+
+*Edit*: On further inspection it turns out I just had to launch the app for it to extract the files by itself...Oops.
 
 ## Instructions
 
@@ -24,7 +26,7 @@ pip install -r uv.lock
 
 ### Run App
 
-Replace the arguments below and run the help command to learn how to use this app:
+Run the help command to learn how to use this app:
 
 ```bash
 python ./main.py -h
