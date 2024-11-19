@@ -1,0 +1,9 @@
+[project]
+name = "unity-audio-beheader"
+version = "0.1.0"
+description = "Chops the header off of dumped mp3 files"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mutagen>=1.47.0",
+]
